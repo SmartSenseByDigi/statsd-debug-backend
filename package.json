@@ -1,0 +1,19 @@
+{
+  "author": "Elliot Franford <elliot@tempalert.com>",
+  "name": "statsd-debug-backend",
+  "description": "A Debug backend for debugging statsd metrics",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://bitbucket.org/tempalert/statsd-debug-backend.git"
+  },
+  "keywords": [
+    "debug",
+    "metrics",
+    "statsd"
+  ],
+  "engines": {
+    "node": ">=0.8"
+  },
+  "main": "lib/debug.js"
+}
